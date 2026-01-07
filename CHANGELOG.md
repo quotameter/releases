@@ -1,9 +1,9 @@
-#QuotaMeter Changelog
+# QuotaMeter Changelog
 
-##Chrome Extension
+## Chrome Extension
 
-##Mac Menu Bar App
+## Mac Menu Bar App
 
-##VSCode Extension
+## VSCode Extension
 
-##Secret other itegration
+## Secret other itegration
